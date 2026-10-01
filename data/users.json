@@ -1,0 +1,14 @@
+{
+    "customer": {
+        "phone_number": "01686606903",
+        "password": "1234"
+    },
+    "agent": {
+        "phone_number": "01686606901",
+        "password": "1234"
+    },
+    "admin": {
+        "email": "admin@dmoney.com",
+        "password": "1234"
+    }
+}
